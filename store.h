@@ -2,6 +2,6 @@
 class store{
     public: 
     int price(); 
-    int numbers; 
+    int nums; 
 
 }; 
