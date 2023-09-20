@@ -1,4 +1,7 @@
 #include <iostream>
-int main(){
-    
-}
+class store{
+    public: 
+    int price(); 
+    int numbers; 
+
+}; 
