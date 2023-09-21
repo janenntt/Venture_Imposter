@@ -1,7 +1,9 @@
 #include <iostream>
+#include <string> 
+using namespace std; 
 class store{
     public: 
-    int price(); 
+    std::string name; 
+    int price; 
     int nums; 
-
-}; 
+};  
